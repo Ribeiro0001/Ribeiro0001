@@ -1,4 +1,4 @@
-## Olá, Eu sou o Ronald Ribeiro é atualmente estou ingressando na área de programação
+## Olá, Eu sou o Ronald Ribeiro e atualmente estou ingressando na área de programação
 
 <a href="https://github.com/Ribeiro0001" a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro0001&layout=compact&theme=dark"/>
